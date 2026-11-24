@@ -1,0 +1,14 @@
+# Generated raw datasets
+/duka_sales.csv
+/agents.csv
+/agent_transactions.csv
+
+# Temporary Excel source data
+/excel/duka_sales_data.csv
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment files
+.env
